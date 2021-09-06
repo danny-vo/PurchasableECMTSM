@@ -1,5 +1,5 @@
 {
-    "Name": "PurchasableBlackmarketDHS",
+    "Name": "Purchasable ECM TSM",
     "Enabled": true,
     "Version": "1.0.0",
     "Description": "Enables the purchase of ECM upgrades + TSM - adds to rare upgrades shop collection",
