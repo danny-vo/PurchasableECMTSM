@@ -1,7 +1,7 @@
 {
     "Name": "Purchasable ECM TSM",
     "Enabled": true,
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Description": "Enables the purchase of ECM upgrades + TSM - adds to blackmarket shop collection",
     "Author": "danny-vo",
 
@@ -10,10 +10,6 @@
             "Type": "ItemCollectionDef",
             "Path": "itemCollections/",
             "ShouldAppendText": true
-        },
-        {
-            "Type": "UpgradeDef",
-            "Path": "upgrades/"
         }
     ]
 }
